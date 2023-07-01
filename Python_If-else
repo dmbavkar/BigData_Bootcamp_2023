@@ -1,0 +1,17 @@
+# how to use if-else condition in python
+x = 10
+y = 5
+
+if x == y:
+    print("Yes, x is equals to y ")
+else:
+    print("No, x is not equal to y !")
+
+#
+a = 40
+
+if a==50:
+    print("YES")
+
+print("Exit")
+
