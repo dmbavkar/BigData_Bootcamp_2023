@@ -27,7 +27,7 @@ full_name = str_data + " " + "Bavkar"
 print(full_name)
 
 # if we can use - as well ? IT will not work
-#minus_str = "Dnyaneshwar" - "Bavkar"
+#minus_str = "Dnyaneshwar" - "Bavkar" 
 #print("Minus str = ", minus_str)
 
 # multiply_str = "Dnyaneshwar"*"Bavkar"
