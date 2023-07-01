@@ -2,7 +2,7 @@
 
 int_var = 10
 float_var = 18.25
-string_var = 'Big Data Analytics' # or another way "ineuron batch2"
+string_var = 'Big Data Analytics' 
 bool_var = True # if we want to assign false then it should be like False
 
 
