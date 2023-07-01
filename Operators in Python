@@ -1,0 +1,43 @@
+# Numerical operation in python
+# + addition
+# - subtraction
+# * multiplication
+# / division
+# // integer division
+# ** power
+# % modulus
+
+x=5
+y=5
+
+print("Addition of x + y = ",x+y)
+print("Subtraction of x - y = ",x-y)
+print("Multiplication of x * y = ",x*y)
+print("Float Division of x / y = ",x/y)
+print("Integer Division of x // y = ",x//y)
+print("Modulus of x % y = ",x%y)
+print("Power of x ** y = ",x**y)
+
+# Operations on string
+str_data = "Dnyaneshwar"
+empty_str = ''
+
+#Concat operation for string
+full_name = str_data + " " + "Bavkar"
+print(full_name)
+
+# if we can use - as well ? IT will not work
+#minus_str = "Dnyaneshwar" - "Bavkar"
+#print("Minus str = ", minus_str)
+
+# multiply_str = "Dnyaneshwar"*"Bavkar"
+# print("Multiply str = ", multiply_str)
+
+# power_str = "Dnyaneshwar"**"Bavkar"
+# print("Power str = ", power_str)
+
+# power_str = "Dnyaneshwar" ** 3
+# print("Power str = ", power_str)
+
+multiply_numeric_str = "Dnyaneshwar "*5
+print("Multiply numeric str = ", multiply_numeric_str)
